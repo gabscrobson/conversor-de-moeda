@@ -77,3 +77,17 @@ h2 {
   width: fit-content;
   margin: 40px auto;
 }
+
+button:hover {
+  opacity: 0.8;
+}
+
+.page-logo:hover{
+  content: url("https://raw.githubusercontent.com/gist/gabscrobson/4e0d846835e66afaa4a5dcba64ca6450/raw/06737c695cb5746a1b255d8f2a18a793a9c817aa/imersaodevbutton.svg")
+}
+
+body:after{
+  display: none;
+  content: url("https://raw.githubusercontent.com/gist/gabscrobson/4e0d846835e66afaa4a5dcba64ca6450/raw/06737c695cb5746a1b255d8f2a18a793a9c817aa/imersaodevbutton.svg")
+}
+
