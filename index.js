@@ -25,8 +25,4 @@ function Converter3() {
   var elementohtml3 = document.getElementById("valorConvertido");
   var texto3 = "BTC " + rvalue3;
   elementohtml3.innerHTML = texto3;
-
-
-
-
 }
